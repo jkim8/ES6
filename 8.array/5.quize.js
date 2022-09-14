@@ -49,8 +49,3 @@ function match(input, search) {
   return result;
 }
 console.log(match(['🍌', '🥝', '🍇'], ['🍌', '🍓', '🍇', '🍓']));
-
-// 퀴즈 4
-// 5이상(보다 큰)의 숫자들의 평균
-
-const nums = [3, 16, 5, 25, 4, 34, 21];
